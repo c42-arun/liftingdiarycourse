@@ -11,7 +11,10 @@
       "Bash(node:*)",
       "Bash(npx:*)",
       "Bash(npm run:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(git merge:*)"
     ]
   },
   "enabledMcpjsonServers": [
